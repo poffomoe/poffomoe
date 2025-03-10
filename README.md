@@ -24,7 +24,7 @@ an aspiring developer
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=white)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![Node.JS](https://img.shields.io/badge/Deno.JS-339933?style=for-the-badge&logo=deno&logoColor=339933&labelColor=white)](https://deno.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=white)](https://www.typescriptlang.org/)
-[![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=white)](https://www.postgresql.org/)
+[![SQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=white)](https://www.postgresql.org/)
 
 ### Would like to learn
 
